@@ -7,4 +7,4 @@ secondbranch
 I have just created a second branch/
 let's make a change.
 Maybe it's different
-master
+rebasing 1
